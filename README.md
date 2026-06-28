@@ -3,7 +3,7 @@
 <div align="center">
 
 
-<img src="https://raw.githubusercontent.com/SupportCommunityQena/SupportCommunityQena/main/cover.png" alt="Support Logo" width="200" style="border-radius: 50%; border: 5px solid #00ff41; box-shadow: 0 0 20px #00ff41;"/>
+<img src="https://raw.githubusercontent.com/SupportCommunityQena/SupportCommunityQena/main/cover.png" alt="Support Logo"  style="border-radius: 50%; border: 5px solid #00ff41; box-shadow: 0 0 20px #00ff41;"/>
 
 # Welcome to Support Community 
 
@@ -54,5 +54,3 @@ Empower every learner to become a professional Software Engineer through:
 ### Welcome to Support Community 
 
 </div>
-
-```
