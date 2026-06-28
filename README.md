@@ -3,7 +3,9 @@
 <div align="center">
 
 
-<img src="https://raw.githubusercontent.com/SupportCommunityQena/SupportCommunityQena/main/cover.png" alt="Support Logo"  style="border-radius: 50%; border: 5px solid #00ff41; box-shadow: 0 0 20px #00ff41;"/>
+<img src="https://raw.githubusercontent.com/SupportCommunityQena/-SupportCommunityQena/main/cover.png"
+  alt="Support Community"
+  width="100%" alt="Support Logo"  />
 
 # Welcome to Support Community 
 
